@@ -1,3 +1,4 @@
+//feature1
 import React from 'react';
 
 import './App.css';
@@ -12,7 +13,7 @@ function App() {
 			  roduct List
 		  </main>
 		  <footer>
-			  Alll My ooter
+			  All My ooter
 		  </footer>
     </div>
   );
